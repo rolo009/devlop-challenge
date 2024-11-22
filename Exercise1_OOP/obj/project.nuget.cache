@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JB5nrbN0VM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Devlop\\devlop-challenge\\Exercise1_OOP\\Exercise1_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

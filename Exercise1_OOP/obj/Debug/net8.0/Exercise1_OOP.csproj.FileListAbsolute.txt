@@ -1,0 +1,17 @@
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Exercise1_OOP.exe
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Exercise1_OOP.deps.json
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Exercise1_OOP.runtimeconfig.json
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Exercise1_OOP.dll
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Exercise1_OOP.pdb
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.dll
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\refint\Exercise1_OOP.dll
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.pdb
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\ref\Exercise1_OOP.dll
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise.62D351AA.Up2Date
