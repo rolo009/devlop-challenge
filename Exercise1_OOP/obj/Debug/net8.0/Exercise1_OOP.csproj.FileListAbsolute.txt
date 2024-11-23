@@ -15,3 +15,4 @@ C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\re
 C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.csproj.AssemblyReference.cache
 C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise.62D351AA.Up2Date
+C:\Users\pedro\Desktop\Devlop\devlop-challenge\Exercise1_OOP\obj\Debug\net8.0\Exercise1_OOP.sourcelink.json
